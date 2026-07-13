@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi there, I'm Quinn.
+
+- I work with ksh and illumos as a sysadmin.
+- My primary contacts are:
+  - Email: quwalker@aol.com
+  - Jabber: qwalker@jab.im
+- My pronouns are they/them.
+- I currently reside in Pennsylvania but I am soon to move back to my home city, Seattle.
 
 <!--
 **quwalker/quwalker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
